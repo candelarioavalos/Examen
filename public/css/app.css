@@ -1,0 +1,64 @@
+.button-collapse, .brand-logo{
+	/*margin-left: 20px;*/
+}
+
+/*
+	Selectores css3
+	clases "."
+	id "#"
+	etiquetas "tag"
+
+*/
+
+#slider-libreria, #section2{
+	margin-top: 30px;
+}
+
+/*color del boton activo*/
+.slider .indicators .indicator-item.active {
+  background-color: #00e5ff;
+}
+/*propiedades del boton inactivo*/
+.slider .indicators .indicator-item {
+  background-color: #78909c;
+  border: 2px solid #ffccbc;
+ }
+
+.btn-social{
+	margin-left: 20px;
+}
+
+.img-login{
+ 	margin-right: 120px;
+ 	margin-top: 20px;
+ }
+ 
+ .img-newusr{
+ 	margin-right: 140px;
+ 	margin-top: 50px;
+ }
+ 
+ #new-usr{
+ 	width: 500px;
+ 	height: 600px;
+ }
+
+ .form-acceso{
+ 	margin-top: 40px;
+ }
+
+ .error{
+ 	color:red;
+ 	padding:3px;
+ }
+
+
+
+
+p{
+	/*border: 1px solid;
+	margin-top: 5px;
+	padding-top: 5px;*/
+	text-align : justify;
+}
+
